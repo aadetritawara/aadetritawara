@@ -6,8 +6,6 @@
   </picture>
 </p>
 
----
-
 ### About Me
 
 - 🎓 &nbsp; Studying **Computer Science and Statistics** at **The University of British Columbia**

@@ -9,7 +9,7 @@
 ### About Me
 
 - 🎓 &nbsp; Studying **Computer Science and Statistics** at **The University of British Columbia**
-- 💻 &nbsp; Currently an undergraduate research assistant at the **British Columbia Centre for Disease Control**
+- 💻 &nbsp; Currently a Software Engineering Intern at **Diligent**
 
 ### Skills
 **Languages**
